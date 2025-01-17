@@ -11,4 +11,4 @@ Recipe Recommender is a powerful application built with Streamlit and Python. It
 - **Mistral AI**: Provides advanced AI capabilities for better recommendations.
 
 ## Visit Us
-For more information and to try out the Recipe Recommender, visit [Recipe Recommender](http://example.com).
+For more information and to try out the Recipe Recommender, visit [Recipe Recommender](https://app.snowflake.com/ap-southeast-3.aws/pf04419/#/streamlit-apps/NEWS_API.PUBLIC.GVXIWOPM2OGZKFMT?ref=snowsight_shared).

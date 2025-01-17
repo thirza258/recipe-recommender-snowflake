@@ -3,6 +3,9 @@
 ## Overview
 Recipe Recommender is a powerful application built with Streamlit and Python. It leverages Retrieval-Augmented Generation (RAG) and Cortex Search Snowflake to provide personalized recipe recommendations. The AI engine behind this application is powered by Mistral AI.
 
+## Acknowledgements
+Special thanks to Cookpad for providing the data that made this project possible.
+
 ## Features
 - **Streamlit Integration**: A user-friendly interface for seamless interaction.
 - **Python Backend**: Robust and efficient backend processing.
